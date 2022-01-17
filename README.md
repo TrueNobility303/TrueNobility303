@@ -1,5 +1,5 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning machine learning
-- 📫 How to reach me: 19307130195@fudan.edu.cn
-- 🔭 I’ve written blogs at [My Blogs](https://truenobility303.github.io/posts/)
+- 📫 Welcome to reach me at 19307130195@fudan.edu.cn
+- 🔭 [Here](https://truenobility303.github.io/posts/) you can find my blogs.
