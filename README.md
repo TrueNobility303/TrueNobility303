@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning machine learning
-- 📫 Welcome to reach me at 19307130195@fudan.edu.cn
-- 🔭 [Here](https://truenobility303.github.io/posts/) you can find my blogs.
+- 🌱 I believe that “True Nobility lies in being superior to your former self.”
+- 📫 Welcome to reach me at lschen19@fudan.edu.cn or chenlc23@mails.tsinghua.edu.cn
+- 🔭 Here is my [homepage](https://truenobility303.github.io/)
